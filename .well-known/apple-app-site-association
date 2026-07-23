@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["5S7F5FFR35.com.mir.BoldEdit"],
+        "components": [
+          {
+            "/": "/boldedit/*",
+            "comment": "BoldEdit universal links (TikTok OAuth callback)"
+          }
+        ]
+      }
+    ]
+  }
+}
